@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi there 👋💻
 
-<!--
-**henriquealbrecht/henriquealbrecht** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Olá, meu nome é Henrique Albrecht, tenho 21 anos. Moro em Porto Alegre, Rio Grande do Sul 🌎. Estou trabalhando como analista de suporte e durante os outros horários, estudo programação. 
 
-Here are some ideas to get you started:
+**Estudos 👨🏻‍💻:**
+- Estou aperfeiçoando meu TypeScript, JavaScript, C#, NodeJS.
+- Possuo conhecimento em PostgreeSQL e SQL Server.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**A meta é sempre evoluir e passar o conhecimento que aprendeu para outras pessoas.**
+
+📩: henriquealbrechtt@gmail.com
+
+Hello, my name is Henrique Albrecht, I'm 21 years old. I live in Porto Alegre, Rio Grande do Sul 🌎. I am working as a support analyst and during the other hours, I study programming. I am perfecting my TypeScript, JavaScript, C #, NodeJS. I have knowledge in PostgreeSQL and SQL Server.
+
+**The goal is always to evolve and pass on the knowledge have learned to others.**
