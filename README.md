@@ -3,8 +3,8 @@
 Olá, meu nome é Henrique Albrecht, tenho 21 anos. Moro em Porto Alegre, Rio Grande do Sul 🌎. Estou trabalhando como analista de suporte e durante os outros horários, estudo programação. 
 
 **Estudos 👨🏻‍💻:**
-- Estou aperfeiçoando meu TypeScript, JavaScript, C#, NodeJS.
-- Possuo conhecimento em PostgreeSQL e SQL Server.
+- Estou aperfeiçoando meu AzureDevops, JavaScript, C#, NodeJS.
+- Possuo conhecimento em PostgreeSQL, SQL Server, C#.
 
 **A meta é sempre evoluir e passar o conhecimento que aprendeu para outras pessoas.**
 
