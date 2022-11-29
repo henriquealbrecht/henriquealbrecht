@@ -1,6 +1,6 @@
 ### Hi there 👋💻
 
-Olá, meu nome é Henrique Albrecht, tenho 21 anos. Moro em Porto Alegre, Rio Grande do Sul 🌎. Estou trabalhando como analista de suporte e durante os outros horários, estudo programação. 
+Olá, meu nome é Henrique Albrecht, tenho 23 anos. Moro em Porto Alegre, Rio Grande do Sul 🌎. Estou trabalhando como analista de suporte e durante os outros horários, estudo programação. 
 
 **Estudos 👨🏻‍💻:**
 - Estou aperfeiçoando meu AzureDevops, JavaScript, C#, NodeJS.
