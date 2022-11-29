@@ -1,15 +1,11 @@
 ### Hi there 👋💻
 
-Olá, meu nome é Henrique Albrecht, tenho 23 anos. Moro em Porto Alegre, Rio Grande do Sul 🌎. Estou trabalhando como analista de suporte e durante os outros horários, estudo programação. 
+Olá, meu nome é Henrique Albrecht, tenho 23 anos. Moro em Porto Alegre, Rio Grande do Sul 🌎. Estou trabalhando como desenvolvedor de software, sendo desenvolvedor FullStack em dois produtos: Personal Med Online - Linha Saúde e BackOffice.
 
-**Estudos 👨🏻‍💻:**
-- Estou aperfeiçoando meu AzureDevops, JavaScript, C#, NodeJS.
-- Possuo conhecimento em PostgreeSQL, SQL Server, C#.
+Atuo utilizando C#, .Net Core, JavaScript, API Rest, SQL Server, MongoDB, PostgreSQL, Jasmine, Bootstrap, JQuery, Jenkins, SonarQube, Angular, Framework PO-UI, NodeJs, Typescript, Serverless, Docker, AWS e Azure.
+
+Plataformas de conhecimento Jira, Stack Atlassian, Zendesk, Protheus, HotJar, Compass e UserGuiding.
 
 **A meta é sempre evoluir e passar o conhecimento que aprendeu para outras pessoas.**
 
 📩: henriquealbrechtt@gmail.com
-
-Hello, my name is Henrique Albrecht, I'm 21 years old. I live in Porto Alegre, Rio Grande do Sul 🌎. I am working as a support analyst and during the other hours, I study programming. I am perfecting my TypeScript, JavaScript, C #, NodeJS. I have knowledge in PostgreeSQL and SQL Server.
-
-**The goal is always to evolve and pass on the knowledge have learned to others.**
